@@ -34,7 +34,7 @@ Step   8 loss 0.105365150
 Step   9 loss 0.103511676
 ```
 
-![1571833556450](.\pic\kfac_result.png)
+![](.\pic\kfac_result.png)
 
 **SGD算法**
 
@@ -77,4 +77,3 @@ iteration=10000, lr=0.2
 
 
 #### Modified from https://github.com/yaroslavvb/kfac_pytorch
-
