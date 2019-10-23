@@ -34,7 +34,7 @@ Step   8 loss 0.105365150
 Step   9 loss 0.103511676
 ```
 
-![](.\pic\kfac_result.png)
+![kfac](./pic/kfac_result.png)
 
 **SGD算法**
 
@@ -50,7 +50,7 @@ Step  99 loss 8.312146187
 
 
 
-![1571833770726](.\pic\sgd_result_01.png)
+![1571833770726](./pic/sgd_result_01.png)
 
 iteration=3000, lr=0.2
 
@@ -64,11 +64,11 @@ Step 2998 loss 4.034480095
 Step 2999 loss 4.183311462
 ```
 
-![1571833717304](.\pic\sgd_result_02.png)
+![1571833717304](./pic/sgd_result_02.png)
 
 iteration=10000, lr=0.2
 
-![1571832395100](D:\学习\github\K-FAC-example\pic\sgd_result_03.png)
+![1571832395100](./pic/sgd_result_03.png)
 
 
 
