@@ -6,7 +6,7 @@ from torch.autograd import Variable
 import numpy as np
 import scipy
 import sys
-   
+
 from torch.autograd.function import Function
 
 def ng_init(s1, s2): # uniform weight init from Ng UFLDL
